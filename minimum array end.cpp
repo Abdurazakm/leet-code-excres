@@ -1,7 +1,7 @@
 #include <iostream>
 #include <vector>
 using namespace std;
-
+//this leet code question
 class Solution {
 public:
     long long minEnd(int n, int x) {
