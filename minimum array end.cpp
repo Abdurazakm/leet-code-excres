@@ -28,6 +28,7 @@ int main() {
     
     // Call the minEnd function using the object
     cout << solution.minEnd(n, x) << endl;
+    // this abdulhakim
 
     return 0;
 }
