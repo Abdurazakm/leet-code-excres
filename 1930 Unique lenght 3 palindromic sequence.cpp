@@ -1,3 +1,6 @@
+#include <iostream> 
+#include <unordered_set> 
+using namespace std;
 class Solution {
 public:
     int countPalindromicSubsequence(string s) {
